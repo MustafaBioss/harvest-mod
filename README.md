@@ -58,9 +58,9 @@ We currently only have the "Crop Thief" entity with the Mustafa variant, and the
 chases after your crops destroying them and stealing them, you can get your crops back by killing them.
 Spawn them by using the spawn eggs in the creative inventory.
 
-## Setup
+## Download
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+Harvest-Mod uses **Fabric**, Minecraft Version **1.21.x**.
 
 ## License
 
