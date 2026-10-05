@@ -1,6 +1,8 @@
 {
-  "parent": "minecraft:block/cube_all",
+  "parent": "minecraft:block/cube_bottom_top",
   "textures": {
-    "all": "harvestmod:block/planter_block"
+    "top": "harvestmod:block/planter_block_top",
+    "bottom": "harvestmod:block/planter_block_bottom",
+    "side": "harvestmod:block/planter_block_side"
   }
 }
